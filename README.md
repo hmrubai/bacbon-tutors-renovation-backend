@@ -1,4 +1,4 @@
-## Laravel 11 API Starter Kit with JWT Auth, Role, Permission & User Management
+## BacBon Tutors Backend
 
 ## Features
 - JWT Authentication
@@ -25,15 +25,5 @@
 
 
 
-## About Me
-- **Foysal Ahmmad Arfin**
-- **Software Engineer (PHP, Python, Laravel, Django)**
-- **Email:af.arfinfoysal@gmail.com**
-
-
-## Follow Me on Social Media 
-- **[Linkedin](https://www.linkedin.com/in/arfinfoysal/)**
-- **[Github](https://github.com/arfin-foysal/)**
-
-
-## ========Thank You========
+## Contributor
+- **[Hosne Mobarak Rubai](https://github.com/hmrubai/)**
